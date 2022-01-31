@@ -1,1 +1,1 @@
-# Linked-list
+Linked list written on Python
